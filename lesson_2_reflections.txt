@@ -1,0 +1,6 @@
+Lesson Two Reflections
+
+
+<question> How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+<answer> it seems that the staging area is a very useful tool for a scope of and pallet for a collection of materials/files, allowing for an encompassing view before committing
