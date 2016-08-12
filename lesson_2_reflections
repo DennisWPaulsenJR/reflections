@@ -9,3 +9,6 @@ Lesson Two Reflections
 
 <answer>...i'm a visual learner and to be able to relate a visual expression to the mapping of repositories is necessary.  And to visualise and comprehend the dynamics of git is essential</answer>
 
+<question> What is the result of merging two branches together? Why do we represent it in the diagram the way we do?</question>
+
+<answer>...merging seems most useful for combining work to the master branch, I imagine the process works the same with non-master branches as far as the auto-merge is concerned.</answer>
