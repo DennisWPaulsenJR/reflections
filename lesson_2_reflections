@@ -12,3 +12,9 @@ Lesson Two Reflections
 <question> What is the result of merging two branches together? Why do we represent it in the diagram the way we do?</question>
 
 <answer>...merging seems most useful for combining work to the master branch, I imagine the process works the same with non-master branches as far as the auto-merge is concerned.</answer>
+
+<question>What are the pros and cons of Git’s automatic merging vs. always doing merges manually?</question>
+
+<answer>auto is more efficient for the process of adding many commits from different branches and seems intuitive, but cannot handle any file conflicts with predetermined outcomes...as in the user cannot at this time, but should be able to define circumstancial senarios where git can auto resolve conflicts based on the users definitions</answer>
+
+
